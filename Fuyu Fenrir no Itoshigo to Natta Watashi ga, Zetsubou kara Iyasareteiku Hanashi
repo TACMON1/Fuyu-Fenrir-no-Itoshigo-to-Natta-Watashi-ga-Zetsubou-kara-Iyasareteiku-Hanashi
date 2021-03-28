@@ -44,6 +44,30 @@
         "Taco Hut": "/proxy/api/imgur/chapter/FybiNkd/"
       },
       "last_updated": "1606503600"
+    },
+       "6": {
+      "title": "Chapter 6",
+      "volume": "0",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/4AnI6B7/"
+      },
+      "last_updated": "1607713200"
+    },
+       "7": {
+      "title": "Chapter 7",
+      "volume": "0",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/e02XtQt/"
+      },
+      "last_updated": "1608922800"
+    },
+       "8": {
+      "title": "Chapter 8",
+      "volume": "0",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/1bzX8Uv/"
+      },
+      "last_updated": "1608922800"
     }
   }
 }
