@@ -12,6 +12,14 @@
         "Taco Hut": "/proxy/api/imgur/chapter/bl6BZYd/"
       },
       "last_updated": "1616368746"
+    },
+     "<2>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/L7CfJDn/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
