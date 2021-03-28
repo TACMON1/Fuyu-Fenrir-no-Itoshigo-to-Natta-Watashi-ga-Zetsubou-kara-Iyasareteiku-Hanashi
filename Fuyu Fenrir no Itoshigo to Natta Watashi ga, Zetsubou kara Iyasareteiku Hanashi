@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/HYkgErr.jpg",
   "chapters": {
     "1": {
-      "title": "<chapter name>",
+      "title": "Chapter 1",
       "volume": "<volume number>",
       "groups": {
         "Taco Hut": "/proxy/api/imgur/chapter/bl6BZYd/"
@@ -14,7 +14,7 @@
       "last_updated": "1616368746"
     },
      "2": {
-      "title": "<chapter name>",
+      "title": "Chapter 2",
       "volume": "<volume number>",
       "groups": {
         "Taco Hut": "/proxy/api/imgur/chapter/L7CfJDn/"
