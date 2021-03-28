@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Chapter 1",
-      "volume": "",
+      "volume": "0",
       "groups": {
         "Taco Hut": "/proxy/api/imgur/chapter/bl6BZYd/"
       },
@@ -15,7 +15,7 @@
     },
      "2": {
       "title": "Chapter 2",
-      "volume": "",
+      "volume": "0",
       "groups": {
         "Taco Hut": "/proxy/api/imgur/chapter/L7CfJDn/"
       },
@@ -23,7 +23,7 @@
     },
        "3": {
       "title": "Chapter 3",
-      "volume": "",
+      "volume": "0",
       "groups": {
         "Taco Hut": "/proxy/api/imgur/chapter/JYVoBhv/"
       },
@@ -31,7 +31,7 @@
     },
        "4": {
       "title": "Chapter 4",
-      "volume": "",
+      "volume": "0",
       "groups": {
         "Taco Hut": "/proxy/api/imgur/chapter/tnZi6aE/"
       },
@@ -39,7 +39,7 @@
     },
        "5": {
       "title": "Chapter 5",
-      "volume": "",
+      "volume": "0",
       "groups": {
         "Taco Hut": "/proxy/api/imgur/chapter/FybiNkd/"
       },
