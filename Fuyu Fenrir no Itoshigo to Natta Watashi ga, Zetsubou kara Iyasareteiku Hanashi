@@ -17,7 +17,7 @@
       "title": "<chapter name>",
       "volume": "<volume number>",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/L7CfJDn/"
+        "Taco Hut": "/proxy/api/imgur/chapter/L7CfJDn/"
       },
       "last_updated": "1616368746"
     }
