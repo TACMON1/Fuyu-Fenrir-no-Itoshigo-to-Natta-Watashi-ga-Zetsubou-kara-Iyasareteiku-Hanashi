@@ -1,0 +1,17 @@
+{
+  "title": "<Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi>",
+  "description": "<manga description>",
+  "artist": "Shirokuma Shouta",
+  "author": "Kurosugi Kuron",
+  "cover": "https://i.imgur.com/HYkgErr.jpg",
+  "chapters": {
+    "1": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/bl6BZYd/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
